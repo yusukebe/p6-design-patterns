@@ -1,7 +1,7 @@
 class Singleton {
     my Singleton $instance = Singleton.new;
     method BUILD {
-        say "インスタンスを生成しました。";
+        say "インスタンスを生成します。";
     }
     method get-instance {
         return $instance;
