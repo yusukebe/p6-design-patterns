@@ -1,6 +1,6 @@
 # p6-design-patterns
 
-* GoF Design Patterns + FizzBuzz in Raku(Perl6)
+* GoF Design Patterns in Raku(Perl6)
 * Java implementation: <https://github.com/i-tanaka730/design_pattern>
 
 ## SEE ALSO
